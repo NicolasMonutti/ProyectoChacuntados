@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+GP13Chacuntados\GP13Chacuntados\settings\local.py
